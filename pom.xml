@@ -12,6 +12,7 @@
 	<groupId>com.javatechie</groupId>
 	<artifactId>spring-boot-docker-maven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>spring-boot-docker-maven</name>
 	<description>dockerize your spring boot application using maven</description>
 
